@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <img src="https://github-stats-extended.vercel.app/api?username=kadeem-lewis&show_icons=true&include_all_commits=true&theme=midnight-purple" height="150" alt="stats graph"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kadeem-lewis&langs_count=4&theme=shades-of-purple" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=kadeem-lewis&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kadeem-lewis&langs_count=4&theme=shades-of-purple" alt="languages graph"  />
 </div>
